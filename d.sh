@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf test
+oj d $1
